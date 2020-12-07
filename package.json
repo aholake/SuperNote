@@ -21,6 +21,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "copy-webpack-plugin": "^6.4.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   }
